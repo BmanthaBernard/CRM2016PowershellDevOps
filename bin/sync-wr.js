@@ -12,7 +12,7 @@ var ps = new Shell({
   executionPolicy: 'Bypass',
   noProfile: true
 })
-ps.addCommand('import-module ' + rootPath + '\\Sync-WebResources.psm1')
+ps.addCommand('import-module "' + rootPath + '\\Sync-WebResources.psm1"')
 ps.addCommand('Sync-WebResources ' + configPath)
 ps.invoke()
   .then(output => {
