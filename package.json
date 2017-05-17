@@ -1,6 +1,6 @@
 {
   "name": "sync-webresources",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A powershell solution that will push a local folder structure into CRM WebResources, modularized for npm.",
   "main": "index.js",
   "bin": {
@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/d4hines/CRM2016PowershellDevOps#readme",
   "dependencies": {
+    "bin-path": "0.0.3",
     "chalk": "^1.1.3",
     "node-powershell": "^3.1.1",
     "yargs": "^8.0.1"
