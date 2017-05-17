@@ -1,9 +1,9 @@
 <Configuration>
-	<CrmConnectionString>Url=https://yourmachine.yourdomain.com/YOURORG</CrmConnectionString>
+	<CrmConnectionString>Url=https://rctrdevcrm.regent.edu/CRMRECRUITTEST</CrmConnectionString>
 	<DeltaHours>15</DeltaHours>
 	<SolutionName>Test</SolutionName>
 	<SolutionPrefix>ops_</SolutionPrefix>
-	<WebResourceFolderPath>.\Sample\ops_</WebResourceFolderPath>
+	<WebResourceFolderPath>C:\Automations\SDK\WR</WebResourceFolderPath>
 </Configuration>
 
 

@@ -8,7 +8,7 @@ var ps = new Shell({
   noProfile: true
 })
 
-ps.addCommand('import-module .\\Sync-WebResources.psm1')
+ps.addCommand('import-module Sync-WebResources.psm1')
 ps.addCommand('Sync-WebResources ' + path)
 ps.invoke()
   .then(output => {
