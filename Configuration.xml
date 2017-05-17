@@ -1,9 +1,0 @@
-<Configuration>
-	<CrmConnectionString>Url=https://xxx.crm.dynamics.com;Username=xxx; Password=xxx</CrmConnectionString>
-	<DeltaHours>15</DeltaHours>
-	<SolutionName>Solution1</SolutionName>
-	<SolutionPrefix>new_</SolutionPrefix>
-	<WebResourceFolderPath>C:\CRM-SDK\xxx</WebResourceFolderPath>
-</Configuration>
-
-
