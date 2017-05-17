@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "sync-wr": "node index.js"
+    "start": "node ./bin/sync-wr.js"
   },
   "repository": {
     "type": "git",
