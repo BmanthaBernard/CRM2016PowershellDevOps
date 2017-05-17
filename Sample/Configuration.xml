@@ -1,5 +1,5 @@
 <Configuration>
-	<CrmConnectionString>Url=https://rctrdevcrm.regent.edu/CRMRECRUITTEST</CrmConnectionString>
+	<CrmConnectionString>Url=https://yourmachine.yourdomain.com/YOURORG</CrmConnectionString>
 	<DeltaHours>15</DeltaHours>
 	<SolutionName>Test</SolutionName>
 	<SolutionPrefix>ops_</SolutionPrefix>
