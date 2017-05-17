@@ -1,0 +1,7 @@
+<Configuration>
+	<CrmConnectionString>Url=https://yourmachine.YourDomain.com/CRMRECRUITTEST</CrmConnectionString>
+	<DeltaHours>15</DeltaHours>
+	<SolutionName>Test</SolutionName>
+	<SolutionPrefix>ops_</SolutionPrefix>
+	<WebResourceFolderPath>C:\Automations\SDK\WR</WebResourceFolderPath>
+</Configuration>
